@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mocha</h1>
+<h1 align="center">Hi 👋, I'm Mocha ☕</h1>
 <h3 align="center">Currently a CSE student from Bangladesh</h3>
-<h2 align="center">Currently seduced by web development</h2>
+<h4 align="center">Currently seduced by web development</h4>
 
 - 🌱 I’m currently learning **Javascript and C**
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
