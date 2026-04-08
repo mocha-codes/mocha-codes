@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mocha ☕</h1>
 <h3 align="center">Currently a CSE student from Bangladesh</h3>
-<h4 align="center">Currently seduced by web development</h4>
+<h4 align="center">99% Caffeine, 1% JavaScript</h4>
 
 - 🌱 I’m currently learning **Javascript and C**
 
