@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript and C**
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
